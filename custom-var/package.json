@@ -1,0 +1,11 @@
+{
+  "name": "@kongtee/custom-var",
+  "version": "1.0.1",
+  "description": "custom var",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "guangtian",
+  "license": "ISC"
+}
